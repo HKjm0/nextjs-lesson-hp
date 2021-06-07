@@ -45,7 +45,7 @@ const Contact = () => {
           </div>
           <div>
             <a
-              href="https://www.facebook.com/hideyuki.kojima.315"
+              href="https://www.facebook.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -61,7 +61,7 @@ const Contact = () => {
           </div>
           <div>
             <a
-              href="https://github.com/HKjm0"
+              href="https://github.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
