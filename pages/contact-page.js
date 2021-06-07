@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="flex justify-center mt-4">
           <Image
             className="rouded-full"
-            src="/RUFI.png"
+            src="/vercel.svg"
             width={100}
             height={100}
             alt="Avatar"
